@@ -1,15 +1,17 @@
 {
     ["grow"] = "HORIZONTAL",
     ["controlledChildren"] = {
-        [1] = "Slice and Dice",
-        [2] = "Dispatch",
-        [3] = "Pistol Shot",
-        [4] = "BladeFlurryUsage",
+        [1] = "Roll the Bones",
+        [2] = "Slice and Dice",
+        [3] = "Dispatch",
+        [4] = "Pistol Shot",
         [5] = "Marked For Death",
+        [6] = "Echoing Reprimand",
+        [7] = "BladeFlurryUsage",
     },
     ["borderBackdrop"] = "Blizzard Tooltip",
-    ["xOffset"] = 19.555480957031,
-    ["yOffset"] = -319.11027526855,
+    ["xOffset"] = 17.777770996094,
+    ["yOffset"] = -271.11054992676,
     ["anchorPoint"] = "CENTER",
     ["borderColor"] = {
         [1] = 0,
